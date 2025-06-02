@@ -1,5 +1,5 @@
 ### Hi there 👋
-find more about me on [www.agtonybarletta.it](www.agtonybarletta.it)
+find more about me on [www.agtonybarletta.it](http://www.agtonybarletta.it)
 <!--
 **agtonybarletta/agtonybarletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
