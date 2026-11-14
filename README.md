@@ -2,8 +2,9 @@
 find more about me on my website [www.agtonybarletta.it](http://www.agtonybarletta.it)
 
 ### Projects
-[image2gcode](https://github.com/agtonybarletta/image2gcode)
-[race-chron](https://github.com/agtonybarletta/race-chron)
+
+- [image2gcode](https://github.com/agtonybarletta/image2gcode)
+- [race-chron](https://github.com/agtonybarletta/race-chron)
 <!--
 **agtonybarletta/agtonybarletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
