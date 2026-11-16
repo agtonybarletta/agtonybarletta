@@ -2,7 +2,7 @@
 find more about me on my website [www.agtonybarletta.it](http://www.agtonybarletta.it)
 
 ### Projects
-
+- [water-plants](https://github.com/agtonybarletta/water-plants)
 - [image2gcode](https://github.com/agtonybarletta/image2gcode)
 - [race-chron](https://github.com/agtonybarletta/race-chron)
 - [homeMaDE](https://github.com/agtonybarletta/homeMaDE)
